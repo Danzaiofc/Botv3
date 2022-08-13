@@ -1,43 +1,43 @@
 //=============『 Utama 』================== //
-global.owner = ['6281364444859'] 
+global.owner = ['6282363579424'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Neyy⛧'
-global.numberowner = '6281364444859'
-global.instagram = 'https://www.instagram.com/k0nc1t.store'
-global.github = 'https://github.com/koncit'
-global.dana = '081261973803'
-global.pulsa = '081364444859'
+global.nameowner = 'Ndraa⛧'
+global.numberowner = '6282363579424'
+global.instagram = 'https://www.instagram.com/inpdr.28'
+global.github = 'https://github.com/Danzaiofc'
+global.dana = '082363579424'
+global.pulsa = '082363579424'
 global.gopay = '-'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Anya-Bot'
-global.gc = 'https://wa.me/c/6281364444859'
-global.web = 'https://www.youtube.com/channel/UClfUAjgtQ19vGnUbkQxTuAg' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'Salsabila Bot'
+global.gc = 'https://wa.me/c/6282363579424'
+global.web = 'https://youtube.com/channel/UCY0lFze9ExhezRD4-ggmLgg' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 Minggu = Rp5.000\n1Bulan = Rp15.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://i.ibb.co/F43D4cH/kannachan.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://i.ibb.co/F43D4cH/kannachan.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/Ole-08-13' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/Ole-08-13' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'Anya-Bot'
+global.wm = 'Salsabila-Bot'
 global.watermark = wm
-global.wm2 = '                     「Anya-Bot 」'
-global.wm3 = 'Razul⛧'
+global.wm2 = '                     「Salsabila Bot 」'
+global.wm3 = 'Ndraa⛧'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://i.ibb.co/F43D4cH/kannachan.jpg'
+global.media = 'https://telegra.ph/Ole-08-13'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = 'Process...'
 global.eror = 'ERROR'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
-global.stiker_wait = 'Stiker sedang dibuat'
+global.stiker_wait = 'Stiker sedang dibuat sabar ya tod'
 global.packname = 'Created by'
-global.author = 'Koncit⛧「 Anya - Bot あ 」'
+global.author = 'Ndraa⛧「 Salsabila - Bot あ 」'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
